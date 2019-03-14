@@ -1,4 +1,8 @@
 animation_border
 data_files
+data_old
 image_stacks
-
+images
+src_old
+test
+.*

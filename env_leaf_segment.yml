@@ -1,0 +1,20 @@
+name: env_leaf_segment
+channels:
+  - conda-forge
+dependencies:
+  #System
+  - conda-forge::python=3.6
+  - conda-forge::git
+  - conda-forge::hdf5
+  #Python
+  - conda-forge::numpy
+  - conda-forge::scipy
+  - conda-forge::matplotlib
+  - conda-forge::jupyter
+  - conda-forge::scikit-learn
+  - conda-forge::natsort
+  - conda-forge::scikit-image
+  - conda-forge::nibabel
+  - conda-forge::pillow
+  - conda-forge::mayavi
+prefix: /env_leaf_segment
