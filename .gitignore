@@ -5,4 +5,6 @@ image_stacks
 images
 src_old
 test
-.*
+**/.DS_Store
+**/.ipynb_checkpoints
+
