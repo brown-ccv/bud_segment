@@ -9,6 +9,7 @@ dependencies:
   #Python
   - conda-forge::numpy
   - conda-forge::scipy
+  - conda-forge::pandas
   - conda-forge::matplotlib
   - conda-forge::jupyter
   - conda-forge::scikit-learn
