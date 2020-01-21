@@ -5,6 +5,7 @@ image_stacks
 images
 src_old
 test
+paper
 .DS_Store
 **/*.ipynb_checkpoints/
 
